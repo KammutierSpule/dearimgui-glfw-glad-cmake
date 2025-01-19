@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "donjayamanne.githistory",
+    "kevinkyang.auto-comment-blocks",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools",
+    "guyutongxue.cpp-reference",
+    "cschlosser.doxdocgen",
+    "cheshirekow.cmake-format",
+    "editorconfig.editorconfig"
+  ]
+}
